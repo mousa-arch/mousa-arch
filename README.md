@@ -1,56 +1,38 @@
 # Hi, I'm Mohamed Mousa 👋
+### ☁️ Lead Cloud & Database Architect · Founder, [SinaiTeck AI](https://sinaiteck.ai)
 
-### ☁️ Lead Cloud & Database Architect
-**19-year Oracle EMEA veteran | 23+ years in IT | Expert in Enterprise Infrastructure & AI Strategy**
+**19+ years at Oracle EMEA · 23+ years in enterprise IT** – I design and deliver mission-critical Oracle database platforms on OCI, Exadata Cloud@Customer and multicloud, and bring Generative AI and RAG-based search to enterprise Oracle data.
 
-I specialize in architecting high-stakes cloud migrations, hybrid cloud solutions (Cloud@Customer), and bridging legacy database environments with modern Generative AI implementations. I am passionate about data sovereignty, database modernization, and delivering enterprise-grade performance.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohamed%20Mousa-0A66C2?logo=linkedin)](https://www.linkedin.com/in/mohamed-mousa-02a36433/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-mohamedmousa.carrd.co-1F3864)](https://mohamedmousa.carrd.co)
+[![SinaiTeck AI](https://img.shields.io/badge/SinaiTeck%20AI-sinaiteck.ai-C74B34)](https://sinaiteck.ai)
 
----
+## 🛠️ Expertise
+- **Oracle Cloud & Multicloud:** OCI, DB@OCI, Oracle Database@Azure / @AWS, Autonomous Database, Autonomous JSON DB
+- **Hybrid & Sovereign Cloud:** Exadata Cloud@Customer (ExaCC), Cloud@Customer / OC3, Dedicated & Alloy Regions, Exascale
+- **Migration & HA:** Zero Downtime Migration, GoldenGate, RAC, Data Guard, RMAN, ZDLRA, Autonomous Recovery Service
+- **Applied AI on Oracle:** Oracle 23ai, AI Vector Search, RAG-based search, NLP / natural-language querying, GenAI PoCs
+- **Infrastructure:** Oracle Linux, Solaris, Ubuntu, OCVS, RackWare, Docker
 
-### 🛠️ Tech Stack & Expertise
+## 🚀 Selected work
+- **BAWAG P.S.K. (Austria):** first databases migrated from Azure to OCI DBCS within one week of implementation
+- **Dubai Islamic Bank (UAE):** Exalogic → Oracle Private Cloud@Customer
+- **Chalhoub Group (UAE):** OCI-Classic → OCI (Oracle Retail, EBS, OBI, AIA, OAM / IDM)
+- **BAMF (Germany):** disconnected Cloud@Customer / ExaCC installation and database migration
+- **Ignitis Group (Lithuania):** Exadata Cloud Service delivery – 5/5 customer satisfaction
+- **Ukraine war rooms:** emergency migrations to Oracle Cloud – recognised by Oracle CEO Safra Catz
+- **Awards:** 3× EMEA ACS Delivery Outstanding Award, 4× Customer Services Pacesetter, Making A Difference (FY23)
 
-* **Cloud Architecture & Hybrid Systems:** OCI Dedicated/Alloy Regions, Cloud@Customer, Exadata Cloud at Customer (ExaCC), Oracle Cloud VMware Solution (OCVS).
-* **AI & Modern Data:** Generative AI (GenAI), Retrieval-Augmented Generation (RAG) on 23ai DB, AI Vector Search, Natural Language Processing (NLP).
-* **Database & Migration:** Oracle Autonomous Database, MongoDB (on OCI), Oracle GoldenGate, Zero Downtime Migration (ZDM), Zero Data Loss Recovery Appliance (ZDLRA).
-* **Infrastructure & DevOps:** Linux (Enterprise/Ubuntu), Solaris, Docker, RackWare, Infrastructure as Code (IaC) principles.
+## 📂 Repositories
+- [oci-genai-rag-implementation](https://github.com/mousa-arch/oci-genai-rag-implementation) – RAG-based search on OCI with Oracle 23ai
+- [mongodb-to-autonomous-db-migration](https://github.com/mousa-arch/mongodb-to-autonomous-db-migration) – MongoDB → Autonomous JSON Database with GoldenGate
+- [dba-automation-playbooks](https://github.com/mousa-arch/dba-automation-playbooks) – database & infrastructure automation playbooks
 
----
+## 📜 Certifications
+- [OCI 2025 Generative AI Professional (1Z0-1127-25)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=1254CE69726C53BFABA63266471CD6BE1E0AC270156FD7D5BDAFC3CF8CE2B21E)
+- [OCI 2025 AI Foundations Associate (1Z0-1122-25)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=2C46509C840676E501FBFF04DC3AA3937DE6E53A9AAEE9CD042913B2270DF0DD)
+- OCI Architect Professional (1Z0-997) · OCI Architect Associate (1Z0-1072)
+- Oracle Certified Professional · Microsoft Certified Professional
 
-### 📜 Certifications
-* **Oracle Cloud Infrastructure 2025 Generative AI Professional** (1Z0-1127-25)
-* **Oracle Cloud Infrastructure 2025 AI Foundations Associate** (1Z0-1122-25)
-* **Oracle Cloud Infrastructure Architect Professional**
-* **Certified Oracle Professional | Certified Microsoft Professional**
-
----
-
-### 🚀 Key Technical Wins
-* **Oracle Leadership Recognition:** Honored by Oracle CEO Safra Catz for emergency architectural support and prototyping during Ukraine war room migrations.
-* **Fast-Track Migrations:** Successfully executed a critical, one-week migration of core banking databases from Azure to Oracle DBCS for BAWAG P.S.K.
-* **Enterprise Transformation:** Architected complex workload translocations for global entities including Dubai Islamic Bank, Chalhoub Group, and Ignitis Group.
-* **EMEA Delivery Excellence:** Recipient of the EMEA ACS Delivery Outstanding Award (Q3 FY19) for managing Cloud@Customer readiness across multiple countries under challenging conditions.
-
----
-
-### 📈 Get in Touch
-* **Email:** oraclebin@gmail.com
-* **Location:** Dubai, UAE
-
----
-
-*“Bridging robust, highly available cloud infrastructures with cutting-edge AI capabilities to drive enterprise value.”*
-
-<!--
-**mousa-arch/mousa-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+oraclebin@gmail.com · Dubai, UAE
